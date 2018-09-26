@@ -24,6 +24,17 @@
             ],
             "source": "clean.R",
             "target": "data.csv"
+        },
+        {
+            "ports": [
+                {
+                    "input": "var",
+                    "output": "df",
+                    "type": "r_obj"
+                }
+            ],
+            "source": "clean.R",
+            "target": "analysis.R"
         }
     ],
     "nodes": [
@@ -31,15 +42,17 @@
             "name": "raw_data.csv"
         },
         {
-            "name": "clean.R"
-        },
-        {
             "name": "data.csv"
         },
         {
             "name": "analysis.R"
+        },
+        {
+            "assigned_to": "yatish",
+            "name": "clean.R",
+            "task_status": "proposed"
         }
     ],
-    "updated_at": "2018-09-26 02:11:49",
+    "updated_at": "2018-09-26 02:14:39",
     "url": "https://github.com/dsclass-test/test3"
 }
