@@ -48,18 +48,18 @@
             "name": "analysis.R"
         },
         {
-            "assigned_to": "not assigned",
-            "desc": "somehting eiobe\r\nebi \r\nhetho oth",
-            "name": "script2033.R",
-            "task_status": "proposed"
-        },
-        {
             "assigned_to": "yatish",
             "desc": "",
             "name": "clean.R",
             "task_status": "proposed"
+        },
+        {
+            "assigned_to": "not assigned",
+            "desc": "somehting eiobe\r\nebi ibni iutgtieg irg gr\r\nhetho oth",
+            "name": "script2033.R",
+            "task_status": "proposed"
         }
     ],
-    "updated_at": "2018-09-27 03:21:57",
+    "updated_at": "2018-09-27 03:43:39",
     "url": "https://github.com/dsclass-test/test3"
 }
