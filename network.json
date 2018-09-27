@@ -53,10 +53,12 @@
             "task_status": "proposed"
         },
         {
-            "desc": "somehting ieru",
-            "name": "script2033.R"
+            "assigned_to": "not assigned",
+            "desc": "somehting",
+            "name": "script2033.R",
+            "task_status": "proposed"
         }
     ],
-    "updated_at": "2018-09-27 03:05:21",
+    "updated_at": "2018-09-27 03:21:10",
     "url": "https://github.com/dsclass-test/test3"
 }
