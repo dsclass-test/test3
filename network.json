@@ -35,6 +35,17 @@
             ],
             "source": "clean.R",
             "target": "analysis.R"
+        },
+        {
+            "ports": [
+                {
+                    "input": "d2",
+                    "output": "d",
+                    "type": "r_obj"
+                }
+            ],
+            "source": "clean.R",
+            "target": "script2033.R"
         }
     ],
     "nodes": [
@@ -45,21 +56,24 @@
             "name": "data.csv"
         },
         {
-            "name": "analysis.R"
-        },
-        {
-            "assigned_to": "yatish",
+            "assigned_to": "yhegde",
             "desc": "",
-            "name": "clean.R",
-            "task_status": "proposed"
+            "name": "analysis.R",
+            "task_status": "completed"
         },
         {
             "assigned_to": "not assigned",
             "desc": "somehting eiobe\r\nebi ibni iutgtieg irg gr\r\nhetho oth ojbv;o o3gtt tihq4gh4q q4tuht4oqh",
             "name": "script2033.R",
             "task_status": "proposed"
+        },
+        {
+            "assigned_to": "yatish",
+            "desc": "",
+            "name": "clean.R",
+            "task_status": "proposed"
         }
     ],
-    "updated_at": "2018-09-27 03:45:42",
+    "updated_at": "2018-09-27 04:18:03",
     "url": "https://github.com/dsclass-test/test3"
 }
